@@ -1,1 +1,1 @@
-# odisha-study-square-beckend
+# odisha-study-square-backend
